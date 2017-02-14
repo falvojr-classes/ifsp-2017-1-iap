@@ -23,3 +23,9 @@ estruturada e, também, realizar sua manutenção.
   5. Unidimensionais
   5. Bidimensionais
 6. Sub-rotinas.
+
+### Professores ###
+
+José Rodolfo Beluzo ([jrbeluzo@ifsp.edu.br](mailto:jrbeluzo@ifsp.edu.br))
+
+Venilton FalvoJr ([venilton.junior@ifsp.edu.br](mailto:venilton.junior@ifsp.edu.br))
