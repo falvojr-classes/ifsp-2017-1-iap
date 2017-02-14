@@ -10,10 +10,10 @@ uni e bidimensionais, testes de mesa e sub-rotinas.
 Interpretar e desenvolver algoritmos e programas de computador seguindo o paradigma de linguagem
 estruturada e, também, realizar sua manutenção.
 
-## Ementa
+## Conteúdo Programático
 
-1. Introdução à lógica de programação
-2. Construção de algoritmos em português estruturado
+1. [Introdução à lógica de programação](https://docs.google.com/presentation/d/1zG9EtvSfGIwGQZwjYNoLP6nn1_ugvZnjF57tuJSRq4M/edit?usp=sharing)
+2. [Construção de algoritmos em português estruturado]()
 3. Testes de mesa
 4. Linguagem de programação estruturada:
   4. Estrutura sequencial
