@@ -13,7 +13,7 @@ estruturada e, também, realizar sua manutenção.
 ## Conteúdo Programático
 
 1. [Introdução à lógica de programação](https://docs.google.com/presentation/d/1zG9EtvSfGIwGQZwjYNoLP6nn1_ugvZnjF57tuJSRq4M/edit?usp=sharing)
-2. [Construção de algoritmos em português estruturado]()
+2. [Construção de algoritmos em português estruturado](https://docs.google.com/presentation/d/1gsJ8cbDsytSYkiQXzCN1NvZjnSFoEhNkaG70HDwSSZM/edit?usp=sharing)
 3. Testes de mesa
 4. Linguagem de programação estruturada:
   4. Estrutura sequencial
