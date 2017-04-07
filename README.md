@@ -16,12 +16,12 @@ estruturada e, também, realizar sua manutenção.
 2. [Construção de algoritmos em português estruturado](https://docs.google.com/presentation/d/1gsJ8cbDsytSYkiQXzCN1NvZjnSFoEhNkaG70HDwSSZM/edit?usp=sharing)
 3. [Testes de mesa](https://docs.google.com/presentation/d/1O9LZ--JITqeUbBwiu2RCrivYipGu5pEo7k63zMt1wo8/edit?usp=sharing)
 4. [Linguagem de programação estruturada](https://docs.google.com/presentation/d/1Bh3f5xdaqnB2KBofa7zrMZw2oquSCYPW2ZzcMClumxM/edit?usp=sharing)
- - Estrutura sequencial
- - Estruturas condicionais
- - Estruturas de repetição
+   - Estrutura sequencial
+   - Estruturas condicionais
+   - Estruturas de repetição
 5. Variáveis compostas homogêneas:
- - Unidimensionais
- - Bidimensionais
+   - Unidimensionais
+   - Bidimensionais
 6. Sub-rotinas.
 
 ### Professores ###
