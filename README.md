@@ -15,10 +15,10 @@ estruturada e, também, realizar sua manutenção.
 1. [Introdução à lógica de programação](https://docs.google.com/presentation/d/1zG9EtvSfGIwGQZwjYNoLP6nn1_ugvZnjF57tuJSRq4M/edit?usp=sharing)
 2. [Construção de algoritmos em português estruturado](https://docs.google.com/presentation/d/1gsJ8cbDsytSYkiQXzCN1NvZjnSFoEhNkaG70HDwSSZM/edit?usp=sharing)
 3. [Testes de mesa](https://docs.google.com/presentation/d/1O9LZ--JITqeUbBwiu2RCrivYipGu5pEo7k63zMt1wo8/edit?usp=sharing)
-4. [Linguagem de programação estruturada](https://docs.google.com/presentation/d/1Bh3f5xdaqnB2KBofa7zrMZw2oquSCYPW2ZzcMClumxM/edit?usp=sharing)
-   - Estrutura sequencial
-   - Estruturas condicionais
-   - Estruturas de repetição
+4. Linguagem de programação estruturada
+   - [Estrutura sequencial](https://docs.google.com/presentation/d/1WF3SrAhARglqkcxj1Cv_Uy4ijZ889vcYettcnwR5HXc/edit?usp=sharing)
+   - [Estruturas condicionais](https://docs.google.com/presentation/d/1I35NF7e_hHDOaX0CQErjDiY6yq2ntab6MVUi8kn0g9I/edit?usp=sharing)
+   - [Estruturas de repetição](https://docs.google.com/presentation/d/1Bh3f5xdaqnB2KBofa7zrMZw2oquSCYPW2ZzcMClumxM/edit?usp=sharing)
 5. Variáveis compostas homogêneas:
    - Unidimensionais
    - Bidimensionais
