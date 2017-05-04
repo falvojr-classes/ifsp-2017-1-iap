@@ -13,8 +13,8 @@ int main() {
     printf("Digite X e Y: ");
     scanf("%d %d", &x, &y);
 
-    for(i = 1; i <= x; i++) {
-        produto += y;
+    for(i = 1; i <= y; i++) {
+        produto += x;
     }
 
     printf("%dx%d=%d", x, y, produto);
