@@ -19,9 +19,9 @@ estruturada e, também, realizar sua manutenção.
    - [Estrutura sequencial](https://docs.google.com/presentation/d/1WF3SrAhARglqkcxj1Cv_Uy4ijZ889vcYettcnwR5HXc/edit?usp=sharing)
    - [Estruturas condicionais](https://docs.google.com/presentation/d/1I35NF7e_hHDOaX0CQErjDiY6yq2ntab6MVUi8kn0g9I/edit?usp=sharing)
    - [Estruturas de repetição](https://docs.google.com/presentation/d/1Bh3f5xdaqnB2KBofa7zrMZw2oquSCYPW2ZzcMClumxM/edit?usp=sharing)
-5. Variáveis compostas homogêneas:
-   - Unidimensionais
-   - Bidimensionais
+5. [Variáveis compostas homogêneas](https://docs.google.com/presentation/d/1lWU_3AfPrJL3bHuzs-GhBDwWxKBFIJm6d0oeZr5FEE4/edit?usp=sharing):
+   - Unidimensionais (Vetores)
+   - Bidimensionais (Matrizes)
 6. Sub-rotinas.
 
 ### Professores ###
