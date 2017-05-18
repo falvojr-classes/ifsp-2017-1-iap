@@ -22,7 +22,7 @@ int main()
         if(numero%i == 0) {
             divisores++;
             // Melhoria 1
-            if(divisores > 2) {
+            if(divisores > 1) {
                 break;
             }
         }
@@ -30,6 +30,7 @@ int main()
 
     printf("Esforco de %d loops\n", cont);
 
+    // Igual a um porque dividimos o numero/2 no FOR (melhoria 2)
     if(divisores == 1) {
         printf("O numero %d eh primo!\n", numero);
     }

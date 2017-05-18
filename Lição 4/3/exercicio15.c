@@ -11,30 +11,47 @@
 
 int main()
 {
-    int numero, divisores, opcao, contador, i;
+    int numero, divisores, i, opcao;
 
+    // Removemos as otimizacões do exercicio 14
+
+    // Alternativa 1 (DO WHILE):
     numero = 2;
-
     do {
         divisores = 0;
         for(i=1; i <= numero; i++) {
             if(numero%i == 0) {
                 divisores++;
-                if(divisores > 2) {
-                    break;
-                }
             }
         }
 
         if(divisores == 2) {
-            contador++;
-            printf("%dº numero Primo: %d\n", contador, numero);
-            printf("Pressione S para continuar: ");
-            scanf("%s", &opcao);
+            printf("Primo: %d\n", numero);
+            // Usamos int devido a problemas com o char (compialdor)
+            printf("Pressione 1 para continuar: ");
+            scanf("%d", &opcao);
         }
         numero++;
     }
-    while(toupper(opcao) == 'S');
+    while(opcao == 1);
+
+    // Alternativa 2 (FOR):
+    opcao = 1;
+    for(numero = 2; opcao == 1; numero++) {
+        divisores = 0;
+        for(i=1; i <= numero; i++) {
+            if(numero%i == 0) {
+                divisores++;
+            }
+        }
+
+        if(divisores == 2) {
+            printf("Primo: %d\n", numero);
+            // Usamos int devido a problemas com o char (compialdor)
+            printf("Pressione 1 para continuar: ");
+            scanf("%d", &opcao);
+        }
+    }
 
     getchar();
     return 0;
