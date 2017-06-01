@@ -2,7 +2,8 @@
  * 8. Fazer um programa para ler uma matriz quadrada A
  * de ordem M (M <= 5) de elementos inteiros. Em seguida
  * obter e mostrar seu elemento minimax. O minimax é o
- * menor elemento da linha que contém o maior elemento da matriz.
+ * menor elemento da linha que contém o maior elemento
+ * da matriz.
  */
 
 #define M 3
