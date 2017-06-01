@@ -24,6 +24,11 @@ estruturada e, também, realizar sua manutenção.
    - Bidimensionais (Matrizes)
 6. Sub-rotinas.
 
+## Extras
+
++ [Trabalho 1](https://docs.google.com/presentation/d/1Iel5MEOnY57ViVZgzYqlyu4nnJX_JfwjN95IQ5odjEA/edit?usp=sharing)
++ [Trabalho 2](https://docs.google.com/presentation/d/1mUewhBpgQmBhpzymDi53uV3Dc-iz_xWgCVeH75ZYRLc/edit?usp=sharing)
+
 ### Professores ###
 
 - José Rodolfo Beluzo ([jrbeluzo@ifsp.edu.br](mailto:jrbeluzo@ifsp.edu.br))
