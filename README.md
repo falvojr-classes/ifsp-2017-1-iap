@@ -28,6 +28,7 @@ estruturada e, também, realizar sua manutenção.
 
 + [Trabalho 1](https://docs.google.com/presentation/d/1Iel5MEOnY57ViVZgzYqlyu4nnJX_JfwjN95IQ5odjEA/edit?usp=sharing)
 + [Trabalho 2](https://docs.google.com/presentation/d/1mUewhBpgQmBhpzymDi53uV3Dc-iz_xWgCVeH75ZYRLc/edit?usp=sharing)
++ [Introdução à Plataforma Arduino](https://docs.google.com/presentation/d/1u5bF33F-56yWUIm4RCBFuXVjNcA4lKpCHyz9cki2iTE/edit#slide=id.g133795f163_0_76)
 
 ### Professores ###
 
