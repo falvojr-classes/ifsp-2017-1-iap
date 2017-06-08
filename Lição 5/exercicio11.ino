@@ -1,7 +1,7 @@
 /**
  * CÓDIGO PARA ARDUINO (extensão .ino) 
  * 
- * 9. Faça um programa que leia o valor de um sensor de temperatura TM35, que
+ * 11. Faça um programa que leia o valor de um sensor de temperatura TM35, que
  * varia de 0 a 1023, onde 0 corresponde a 0 Volts e 1023 corresponde a 5 Volts.
  * Além disso, sabemos que 1ºC é igual a 10mV. Com isso, podemos considerar a
  * seguinte equação: 
@@ -18,8 +18,7 @@ void setup() {
   // Configura o pino do sensor de temperatura (entrada)
   pinMode(PINO_SENSOR_TM35, INPUT); 
   // Configura o pino do relé (saída)
-  //pinMode(PINO_RELE, OUTPUT); 
-  pinMode(LED_BUILTIN, OUTPUT);
+  pinMode(PINO_RELE, OUTPUT);
 }
 
 void loop() {
@@ -33,12 +32,10 @@ void loop() {
 
   if(temperaturaCelsius < 37.0) {
     // Ativa o relé (acende a luz)
-    //digitalWrite(PINO_RELE, LOW);
-    digitalWrite(LED_BUILTIN, HIGH);
+    digitalWrite(PINO_RELE, HIGH);
   } else {
     // Desativa o relé (apaga a luz)
-    //digitalWrite(PINO_RELE, HIGH);
-    digitalWrite(LED_BUILTIN, LOW);
+    digitalWrite(PINO_RELE, LOW);
   }
 
   // Imprimimos na porta serial (equivalente ao nosso printf)
