@@ -1,5 +1,5 @@
 /**
- * Fazer um programa que leia um vetor de caracteres de 20
+ * 6. Fazer um programa que leia um vetor de caracteres de 20
  * posições e uma letra X qualquer. Seu programa deverá
  * fazer uma busca do valor de X no vetor lido e informar
  * a posição em que foi encontrado.

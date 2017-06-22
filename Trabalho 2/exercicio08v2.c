@@ -10,14 +10,7 @@
 
 #define DIMENSAO 5
 
-void imprimirVetor(int vetor[DIMENSAO], int numeroElementos, char nomeVetor) {
-    int i;
-    printf("\nVetor %c: ", nomeVetor);
-    for (i = 0; i < numeroElementos; i++)
-    {
-        printf("%d  ", vetor[i]);
-    }
-}
+void imprimirVetor(int vetor[DIMENSAO], int qtdElementos, char idVetor);
 
 int main() {
     int v[DIMENSAO], a[DIMENSAO], b[DIMENSAO];
@@ -53,6 +46,12 @@ int main() {
     return 0;
 }
 
-
+void imprimirVetor(int vetor[DIMENSAO], int qtdElementos, char idVetor) {
+    int i;
+    printf("\nVetor %c: ", idVetor);
+    for (i = 0; i < qtdElementos; i++) {
+        printf("%d  ", vetor[i]);
+    }
+}
 
 

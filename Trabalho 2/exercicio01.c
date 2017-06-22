@@ -1,5 +1,5 @@
 /**
- * Faça um programa em linguagem C que escreva a
+ * 1. Faça um programa em linguagem C que escreva a
  * tabuada dos números de 1 a 10.
  */
 

@@ -20,7 +20,7 @@ int main() {
     int i, j, qtdA;
     char matrizDna[LINHAS][COLUNAS] = {
         {'A','T','G','C','A','A','C','T','A'},
-        {'G','G','C','C','A','A','T','A','T'},
+        {'G','G','C','C','A','A','T','A','A'},
         {'C','A','A','T','G','C','C','A','C'},
         {'T','T','G','C','C','C','T','T','C'}
     };

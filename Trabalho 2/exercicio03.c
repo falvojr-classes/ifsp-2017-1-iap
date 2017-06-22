@@ -27,18 +27,18 @@ int main(){
 		scanf("%f", &numero);
 
 		if(numero >= 0)	{
-	    contador++;
-	    soma += numero;
+            contador++;
+            soma += numero;
 
-	    if(numero < 50) {
-	        menores50++;
-	    }
-	    if(numero > maior) {
-	        maior = numero;
-	    }
-	    if(menor == 0 || numero < menor) {
-	        menor = numero;
-	    }
+            if(numero < 50) {
+                menores50++;
+            }
+            if(contador == 1 || numero > maior) {
+                maior = numero;
+            }
+            if(contador == 1 || numero < menor) {
+                menor = numero;
+            }
 		}
 	}
 

@@ -24,7 +24,8 @@ int main() {
 
         int valor = v[i];
         if (valor > 0) {
-            a[qtdA++] = valor;
+            a[qtdA] = valor;
+            qtdA++;
         }
         else if (valor < 0) {
             b[qtdB++] = valor;

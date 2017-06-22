@@ -11,22 +11,19 @@
 #define BASE 2
 
 int main() {
-    float expoente, dividendo, divisor, soma;
+    float expoente, soma;
 
-    divisor=50;
     soma=0;
 
     for(expoente=1; expoente<=50; expoente++) {
-        dividendo = pow(BASE, expoente);
-
-        soma += dividendo/divisor;
-
-        divisor--;
+        soma += pow(BASE, expoente) / (51 - expoente);
     }
     printf("Soma: %.2f\n", soma);
 
     if (soma == 1560828696330240.00) {
         printf("Deu certo!\n\n");
+    } else {
+        printf("Deu errado!\n\n");
     }
 
     getchar();

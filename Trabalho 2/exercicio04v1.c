@@ -10,7 +10,7 @@
 #define BASE 2
 
 int main() {
-    float base, expoente, dividendo, divisor, soma;
+    float dividendo, divisor, soma;
 
     dividendo = 1;
     divisor=50;

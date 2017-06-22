@@ -10,19 +10,23 @@
 
 #define QTD_TERMOS 15
 
-int main() {
+float fatorial(float numero) {
+    int i;
+    float fatorial = 1;
+    for(i = 2; i<=numero; i++) {
+        fatorial *= i;
+    }
+    return fatorial;
+}
 
-    int i, j;
+int main() {
+    int i;
     float dividendo, divisor, soma;
 
     dividendo = 100;
 
     for(i = 0; i < QTD_TERMOS; i++) {
-        divisor = 1;
-        for(j = 2; j<=i; j++) {
-            divisor *= j;
-        }
-        soma += dividendo/divisor;
+        soma += dividendo/fatorial(i);
         dividendo--;
     }
     printf("Soma: %.8f\n", soma);

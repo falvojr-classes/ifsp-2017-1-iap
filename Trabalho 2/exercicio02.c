@@ -1,5 +1,5 @@
 /**
- * Faça um programa em linguagem C que escreva todos
+ * 2. Faça um programa em linguagem C que escreva todos
  * os números primos dentro de um intervalo fornecido
  * pelo usuário.
  */
